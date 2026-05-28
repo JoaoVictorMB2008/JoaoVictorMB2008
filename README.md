@@ -26,7 +26,7 @@
 
 ###
 
-<h6 align="left">I'm João Victor from Brasil.<br><br>- 🔨 I am a building technician.<br>- 📚 I'm currently learning computer cience.<br>- ⚡ In my free time I like to program games.</h6>
+<h6 align="left">I'm João Victor from Brasil.<br><br>- 🔨 I'm a building technician.<br>- 📚 I'm currently learning computer cience.<br>- ⚡ In my free time I like to program games.</h6>
 
 ###
 
